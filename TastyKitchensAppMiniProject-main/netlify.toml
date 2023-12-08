@@ -1,2 +1,4 @@
-[build]
-  base = "subdirectory"
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
